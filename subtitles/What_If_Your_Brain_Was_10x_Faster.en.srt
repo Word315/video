@@ -1,0 +1,763 @@
+1
+00:00:00,000 --> 00:00:01,300
+Your teacher starts a sentence.
+
+2
+00:00:01,960 --> 00:00:04,260
+You finish it in your head, twice.
+
+3
+00:00:05,220 --> 00:00:09,200
+A pop quiz lands on your desk, 10 problems, done before the
+
+4
+00:00:09,200 --> 00:00:10,180
+paper stops sliding.
+
+5
+00:00:10,880 --> 00:00:13,340
+Across the room, a pencil rolls off a desk.
+
+6
+00:00:13,920 --> 00:00:15,460
+You already know where it will land.
+
+7
+00:00:16,100 --> 00:00:19,900
+A glance at the clock, the second hand hasn't moved, so you
+
+8
+00:00:19,900 --> 00:00:20,560
+plan your weekend.
+
+9
+00:00:21,300 --> 00:00:24,840
+Name the fly on the window, solve tomorrow's homework, and
+
+10
+00:00:24,840 --> 00:00:26,700
+the pencil still rolling.
+
+11
+00:00:26,700 --> 00:00:31,440
+A normal conversation runs at about 150 words per minute.
+
+12
+00:00:32,020 --> 00:00:33,740
+Your brain could follow 1500,
+
+13
+00:00:34,520 --> 00:00:35,540
+10 times faster.
+
+14
+00:00:36,380 --> 00:00:37,460
+Sounds perfect, right?
+
+15
+00:00:37,980 --> 00:00:38,700
+Here's the catch.
+
+16
+00:00:39,560 --> 00:00:44,080
+Your brain sped up, your eyes didn't, your legs didn't, your
+
+17
+00:00:44,080 --> 00:00:48,040
+nerves still carry signals at the same old speed, up to about
+
+18
+00:00:48,040 --> 00:00:53,120
+120 meters per second, and the world, it runs at one speed.
+
+19
+00:00:53,840 --> 00:00:55,180
+Thinking faster is easy.
+
+20
+00:00:55,560 --> 00:00:57,220
+Making anything else faster?
+
+21
+00:00:57,820 --> 00:00:58,140
+Impossible.
+
+22
+00:00:59,120 --> 00:01:02,060
+So what if your brain processed information 10 times faster?
+
+23
+00:01:02,820 --> 00:01:03,180
+Monday,
+
+24
+00:01:03,880 --> 00:01:05,520
+the exam lasts 90 minutes.
+
+25
+00:01:06,200 --> 00:01:09,880
+You need nine, five answer checks, then the ceiling tiles,
+
+26
+00:01:10,540 --> 00:01:10,780
+212.
+
+27
+00:01:12,100 --> 00:01:12,700
+Done already?
+
+28
+00:01:13,280 --> 00:01:14,880
+Your teacher asks, check again.
+
+29
+00:01:15,500 --> 00:01:16,420
+You did, twice.
+
+30
+00:01:17,160 --> 00:01:19,460
+At lunch, your friend Mia tells a story.
+
+31
+00:01:19,960 --> 00:01:20,960
+It takes four minutes.
+
+32
+00:01:21,480 --> 00:01:23,120
+For you, it takes 40.
+
+33
+00:01:23,710 --> 00:01:24,440
+You nod politely.
+
+34
+00:01:25,260 --> 00:01:27,200
+Inside, you reorganize your locker.
+
+35
+00:01:28,020 --> 00:01:31,020
+In baseball class, a fastball crosses the plate in about
+
+36
+00:01:31,020 --> 00:01:32,300
+four-tenths of a second.
+
+37
+00:01:32,900 --> 00:01:34,860
+To you, that feels like four seconds.
+
+38
+00:01:35,560 --> 00:01:38,400
+You see the pitch, plan the swing, replan it.
+
+39
+00:01:38,820 --> 00:01:40,820
+Your arm still needs its normal time.
+
+40
+00:01:41,440 --> 00:01:42,500
+Strike one.
+
+41
+00:01:43,000 --> 00:01:43,320
+Seriously?
+
+42
+00:01:44,240 --> 00:01:46,600
+In chess club, you get three minutes on the clock.
+
+43
+00:01:47,220 --> 00:01:48,160
+It feels like 30.
+
+44
+00:01:48,760 --> 00:01:53,400
+You beat the school champion in 11 moves, plus you win, minus.
+
+45
+00:01:53,860 --> 00:01:55,140
+Nobody wants to play you twice.
+
+46
+00:01:55,940 --> 00:01:57,860
+On Friday, you try an online game.
+
+47
+00:01:58,400 --> 00:01:59,740
+Your brain decides in a flash.
+
+48
+00:02:00,520 --> 00:02:02,500
+Then the signal crawls to the server.
+
+49
+00:02:03,060 --> 00:02:03,700
+40 milliseconds.
+
+50
+00:02:04,820 --> 00:02:05,760
+Lag beats genius.
+
+51
+00:02:06,620 --> 00:02:07,640
+Everyone blames the internet.
+
+52
+00:02:08,340 --> 00:02:09,100
+You blame physics.
+
+53
+00:02:09,980 --> 00:02:13,160
+Then Dr. Lee, a neuroscientist, scans your head.
+
+54
+00:02:13,700 --> 00:02:15,780
+Her screen glows like a city at night.
+
+55
+00:02:16,340 --> 00:02:17,160
+She flashes numbers.
+
+56
+00:02:17,780 --> 00:02:20,480
+Most people hold about four things in mind at once.
+
+57
+00:02:21,120 --> 00:02:23,980
+You hold four, faster, not bigger.
+
+58
+00:02:24,620 --> 00:02:27,900
+Your brain already burns about 20% of your body's energy,
+
+59
+00:02:28,100 --> 00:02:28,560
+she says.
+
+60
+00:02:29,060 --> 00:02:30,380
+Fast thinking isn't free.
+
+61
+00:02:30,940 --> 00:02:34,000
+Eat, sleep, and never sign anything in a hurry.
+
+62
+00:02:34,660 --> 00:02:37,960
+Right on cue, a man in a gray coat waits at the school gate.
+
+63
+00:02:38,500 --> 00:02:42,540
+Mr. Black, private institute, full scholarship, huge salary.
+
+64
+00:02:43,280 --> 00:02:43,640
+One condition,
+
+65
+00:02:44,300 --> 00:02:45,900
+signed by Sunday at five.
+
+66
+00:02:45,900 --> 00:02:48,020
+Who sets a deadline like that?
+
+67
+00:02:48,640 --> 00:02:49,440
+But there's a bill.
+
+68
+00:02:50,080 --> 00:02:51,360
+By evening, you're starving.
+
+69
+00:02:52,160 --> 00:02:54,020
+Your head pounds, like a drum.
+
+70
+00:02:54,720 --> 00:02:56,500
+A faster brain burns more fuel.
+
+71
+00:02:57,160 --> 00:02:58,320
+And yours runs hot.
+
+72
+00:02:58,940 --> 00:02:59,440
+Worth it?
+
+73
+00:03:00,060 --> 00:03:00,280
+Worse,
+
+74
+00:03:00,980 --> 00:03:01,840
+life gets flat.
+
+75
+00:03:02,640 --> 00:03:05,380
+Part of your reward system responds most to surprises.
+
+76
+00:03:06,300 --> 00:03:08,040
+You predict nearly everything now.
+
+77
+00:03:08,700 --> 00:03:09,160
+Fewer surprises,
+
+78
+00:03:10,060 --> 00:03:10,880
+less sparkle.
+
+79
+00:03:11,380 --> 00:03:12,320
+Pretending, too.
+
+80
+00:03:13,080 --> 00:03:14,580
+A fake frown on quizzes.
+
+81
+00:03:14,580 --> 00:03:17,140
+Fake surprise at jokes you saw coming.
+
+82
+00:03:17,840 --> 00:03:18,160
+And waiting?
+
+83
+00:03:18,800 --> 00:03:20,640
+Every minute feels like 10.
+
+84
+00:03:21,180 --> 00:03:24,200
+Every conversation feels like a bus that never comes.
+
+85
+00:03:25,000 --> 00:03:27,800
+Who do you talk to when everyone moves in slow motion?
+
+86
+00:03:28,560 --> 00:03:29,940
+Only one person tries.
+
+87
+00:03:30,820 --> 00:03:31,040
+Mia.
+
+88
+00:03:31,860 --> 00:03:33,420
+She walks home with you every day.
+
+89
+00:03:34,040 --> 00:03:35,180
+Always half a step behind.
+
+90
+00:03:36,080 --> 00:03:36,780
+You rush ahead.
+
+91
+00:03:37,500 --> 00:03:38,660
+She taps your shoulder twice.
+
+92
+00:03:39,440 --> 00:03:40,160
+Where's the fire?
+
+93
+00:03:40,820 --> 00:03:42,220
+Wait for me, she says.
+
+94
+00:03:42,920 --> 00:03:43,240
+You stop.
+
+95
+00:03:43,960 --> 00:03:45,580
+One day, you ask why she bothers.
+
+96
+00:03:46,460 --> 00:03:47,080
+She shrugs.
+
+97
+00:03:47,560 --> 00:03:49,080
+Fast is great, she says.
+
+98
+00:03:49,660 --> 00:03:51,100
+Just don't leave anyone behind.
+
+99
+00:03:51,840 --> 00:03:52,660
+Then she grins.
+
+100
+00:03:53,380 --> 00:03:55,720
+Besides, somebody has to laugh at your jokes.
+
+101
+00:03:56,480 --> 00:03:57,320
+Even the third time.
+
+102
+00:03:58,000 --> 00:03:58,440
+Two taps,
+
+103
+00:03:59,160 --> 00:03:59,580
+you wait.
+
+104
+00:04:00,120 --> 00:04:02,780
+Sunday, 5 o'clock, the park.
+
+105
+00:04:03,520 --> 00:04:05,840
+Mr. Black slides a contract across a bench.
+
+106
+00:04:06,560 --> 00:04:07,800
+Sign here, he says.
+
+107
+00:04:08,540 --> 00:04:09,380
+Your pen hovers.
+
+108
+00:04:10,060 --> 00:04:13,480
+Across the grass, Mia's little brother Sam climbs the playground
+
+109
+00:04:13,480 --> 00:04:13,900
+frame.
+
+110
+00:04:14,640 --> 00:04:15,300
+He waves at you.
+
+111
+00:04:15,860 --> 00:04:16,800
+Four meters up.
+
+112
+00:04:17,420 --> 00:04:18,060
+His foot slips.
+
+113
+00:04:18,920 --> 00:04:19,540
+He doesn't jump.
+
+114
+00:04:20,160 --> 00:04:20,940
+He just drops.
+
+115
+00:04:21,780 --> 00:04:22,580
+Time stretches.
+
+116
+00:04:23,500 --> 00:04:25,560
+Ten seconds of thought inside one.
+
+117
+00:04:26,280 --> 00:04:28,020
+Mia is halfway across the park.
+
+118
+00:04:28,440 --> 00:04:28,900
+Mouth open.
+
+119
+00:04:29,660 --> 00:04:30,420
+A pigeon hangs.
+
+120
+00:04:31,100 --> 00:04:31,560
+Mid-flap.
+
+121
+00:04:32,200 --> 00:04:33,540
+Nobody else has moved yet.
+
+122
+00:04:34,220 --> 00:04:34,980
+You see his hands.
+
+123
+00:04:35,620 --> 00:04:35,900
+The rail.
+
+124
+00:04:36,580 --> 00:04:36,900
+The ground.
+
+125
+00:04:37,560 --> 00:04:41,100
+A drop from four meters lasts about nine tenths of a second.
+
+126
+00:04:41,900 --> 00:04:42,900
+You're six meters away.
+
+127
+00:04:43,720 --> 00:04:46,600
+A fit teenager sprints about seven meters per second.
+
+128
+00:04:47,260 --> 00:04:48,620
+That's eight and a half tenths.
+
+129
+00:04:49,040 --> 00:04:50,000
+Almost no margin.
+
+130
+00:04:50,840 --> 00:04:53,460
+A normal brain needs a quarter of a second just to start
+
+131
+00:04:53,460 --> 00:04:53,720
+moving.
+
+132
+00:04:54,520 --> 00:04:55,700
+You saw the wobble coming.
+
+133
+00:04:56,260 --> 00:04:56,920
+You already started.
+
+134
+00:04:57,700 --> 00:04:59,320
+Your legs can't run any faster.
+
+135
+00:05:00,060 --> 00:05:02,120
+Your brain can only make you start sooner.
+
+136
+00:05:03,020 --> 00:05:04,240
+Pen or Sam.
+
+137
+00:05:05,120 --> 00:05:06,260
+Don't leave anyone behind.
+
+138
+00:05:06,900 --> 00:05:07,780
+You drop the pen.
+
+139
+00:05:08,400 --> 00:05:08,740
+You run.
+
+140
+00:05:09,420 --> 00:05:09,860
+One meter.
+
+141
+00:05:10,500 --> 00:05:10,720
+Two.
+
+142
+00:05:11,340 --> 00:05:12,680
+Air hums in your ears.
+
+143
+00:05:13,480 --> 00:05:13,780
+Four.
+
+144
+00:05:14,400 --> 00:05:15,720
+His sneaker leaves the rail.
+
+145
+00:05:16,420 --> 00:05:16,720
+Five.
+
+146
+00:05:17,280 --> 00:05:17,680
+You dive.
+
+147
+00:05:18,500 --> 00:05:18,900
+Not a catch.
+
+148
+00:05:19,500 --> 00:05:19,880
+A landing.
+
+149
+00:05:20,780 --> 00:05:21,060
+Wump.
+
+150
+00:05:21,500 --> 00:05:22,320
+You hit the grass.
+
+151
+00:05:23,060 --> 00:05:24,420
+Sam lands on top of you.
+
+152
+00:05:24,860 --> 00:05:25,320
+He blinks.
+
+153
+00:05:25,940 --> 00:05:27,100
+Then he laughs.
+
+154
+00:05:27,960 --> 00:05:28,460
+Bruised ribs.
+
+155
+00:05:29,080 --> 00:05:29,580
+Nothing worse.
+
+156
+00:05:30,640 --> 00:05:31,360
+Mia sprints up.
+
+157
+00:05:31,700 --> 00:05:32,060
+Out of breath.
+
+158
+00:05:32,740 --> 00:05:33,340
+Wait for me.
+
+159
+00:05:33,700 --> 00:05:34,380
+She gasps.
+
+160
+00:05:34,720 --> 00:05:36,080
+Two taps on your shoulder.
+
+161
+00:05:36,500 --> 00:05:38,680
+For once, you're already waiting.
+
+162
+00:05:39,320 --> 00:05:41,220
+Mr. Black strolls over, smiling.
+
+163
+00:05:42,200 --> 00:05:42,840
+Extraordinary.
+
+164
+00:05:43,420 --> 00:05:44,920
+Sign and I'll make you famous.
+
+165
+00:05:45,820 --> 00:05:46,720
+You pick up the contract.
+
+166
+00:05:47,400 --> 00:05:50,540
+Your brain reads all nine pages before his smile fades.
+
+167
+00:05:51,360 --> 00:05:51,840
+Page nine.
+
+168
+00:05:52,720 --> 00:05:53,740
+No contact with family.
+
+169
+00:05:54,340 --> 00:05:54,800
+Twelve months.
+
+170
+00:05:55,600 --> 00:05:56,320
+Would you sign that?
+
+171
+00:05:56,760 --> 00:05:56,980
+You ask.
+
+172
+00:05:57,680 --> 00:05:58,820
+Parents nearby stare.
+
+173
+00:05:59,580 --> 00:05:59,820
+At him.
+
+174
+00:06:00,600 --> 00:06:01,480
+He has no answer.
+
+175
+00:06:02,240 --> 00:06:04,300
+A good offer survives a good night's sleep.
+
+176
+00:06:04,940 --> 00:06:06,920
+Rushing you to sign is a red flag.
+
+177
+00:06:07,660 --> 00:06:08,880
+No thanks, you say.
+
+178
+00:06:09,280 --> 00:06:10,660
+I don't leave anyone behind.
+
+179
+00:06:11,480 --> 00:06:15,260
+For the first time in months, a minute feels like exactly
+
+180
+00:06:15,260 --> 00:06:16,280
+one minute.
+
+181
+00:06:17,000 --> 00:06:18,720
+That night, your phone buzzes.
+
+182
+00:06:19,460 --> 00:06:20,080
+Unknown number.
+
+183
+00:06:20,800 --> 00:06:21,380
+Four words.
+
+184
+00:06:22,180 --> 00:06:23,520
+Ten times is nothing.
+
+185
+00:06:24,420 --> 00:06:25,340
+Who sends that?
+
+186
+00:06:26,100 --> 00:06:27,720
+And what comes after ten?
+
+187
+00:06:28,480 --> 00:06:31,240
+So what would you do with a brain ten times faster?
+
+188
+00:06:32,050 --> 00:06:35,140
+Tell us in the comments what you'd do with ten hours squeezed
+
+189
+00:06:35,140 --> 00:06:35,780
+into one.
+
+190
+00:06:36,540 --> 00:06:40,120
+And if you'd wait for a friend, like and subscribe for more
+
+191
+00:06:40,120 --> 00:06:41,060
+What If episodes.
